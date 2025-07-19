@@ -17,8 +17,6 @@
 ---
 This analytical/visualization exercise seeks to extract useful business insights from the sales data of J & J E-Commerce company. Upon analysing the dataset, we identified the key contributors to the company's profits, made recommendations and also identified limitations in the dataset. 
 
-<img width="951" height="532" alt="image" src="https://github.com/user-attachments/assets/73b36324-1da4-4d57-a018-a50e54ded8c9" />
-
 
 ### Data Source
 ---
@@ -70,6 +68,11 @@ SELECT * FROM University
   - Low-Middle income group generated the highest profit;
   - Married customers generated the highest profit;
   - Bachelor’s degree-holding customers generated the highest profit.
+    
+
+<img width="951" height="532" alt="image" src="https://github.com/user-attachments/assets/73b36324-1da4-4d57-a018-a50e54ded8c9" />
+
+
 
 - Profit as per products, marketing method and sales channel:
   - Electronics product category generated the highest profit;
@@ -78,9 +81,19 @@ SELECT * FROM University
   - Online store/channel generated the highest profit;
   - Billboard campaign type generated the highest profit.
 
+
+<img width="1212" height="672" alt="image" src="https://github.com/user-attachments/assets/43aaa029-1046-4c42-a276-4367068594cc" />
+
+
+
 - Profit as per month and states:
   - Kansas (one of the US States) generated the highest profit;
-  - Highest profit are generated in the months of July 2024, January 2025 and March 2025. 
+  - Highest profit are generated in the months of July 2024, January 2025 and March 2025.
+
+
+
+<img width="1231" height="673" alt="image" src="https://github.com/user-attachments/assets/bbef8870-7c65-4a2f-a01e-2befd060cc80" />
+
 
 ### Recommendations
 ---
