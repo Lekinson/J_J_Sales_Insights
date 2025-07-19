@@ -14,32 +14,35 @@
 - [Limitations](#limitations).
 
 ### Project Overview
+---
+This analytical/visualization exercise seeks to extract useful business insights from the sales data of J & J E-Commerce company. Upon analysing the dataset, we identified the key contributors to the company's profits, made recommendations and also identified limitations in the dataset. 
 
-This analytical/visualization exercise seeks to extract useful business insights from the sales data of J & J E-Commerce company. Upon analysing the dataset, we identified the key contributors to the company's profits, made recommendations and also identified limitations in the dataset 
+<img width="951" height="532" alt="image" src="https://github.com/user-attachments/assets/73b36324-1da4-4d57-a018-a50e54ded8c9" />
+
 
 ### Data Source
-
+---
 ChatGPT - The main data utilized for this analysis/visualization are: __"Product_Analytics, Customer_Data_Enriched and Marketing tables"__.
 
 ### Analytics Tools
-
+---
 - Microsoft Power BI
   - [Download Here](https://microsoft.com);
 - Power Query on Microsoft Power BI (data cleaning/manipulation/transformation; and
 - Figma (for Dashboard's Background Designing).
 
 ### Problem Statement
-
+---
 - The data analysed is the one year sales data of J & J Business (the ‘Company’);
 - The Company wants to know the key contributors to their profit and possible areas (s) for improvements.
 
 ### Processes
-
+---
 1. Data cleaning/tansformation with Power Query interface on Power BI;
 2. Data visualizations and dashboarding with Power BI.
 
 ### Brief Statement on the Dataset
-
+---
 - The dataset consists of 5 (five) tables;
 - The tables utilized for this analytical exercise are 3 – Product_Analytics, Customer_Data and Marketing tables ;
 - The profit data (from April 2024 to April 2025) is taken from the Product_Analytics table and not the Financial table.
@@ -47,6 +50,7 @@ ChatGPT - The main data utilized for this analysis/visualization are: __"Product
 - The dataset covers only the USA States.
 
 ### Exploratory Data Analysis (KPIs)
+---
 Among the key questions answered are:
 - Which US state generates the highest profit for the Company;
 - In which month did the Company generated the highest profit;
@@ -58,7 +62,7 @@ SELECT * FROM University
 ```
 
 ### Results/Findings
-
+---
 - Profit as per the customers:
   - Michael Smith generated the highest profit;
   - Female gender generated the highest profit;
@@ -79,13 +83,14 @@ SELECT * FROM University
   - Highest profit are generated in the months of July 2024, January 2025 and March 2025. 
 
 ### Recommendations
-
+---
 - More focus should be given to the highest profit generating indicators: Kansas state; Billboard campaign type (more profit came from this, even though it has the lowest count when compared to the other 3 campaign types); Online store, Sportwear and Beauty related products, Low-Middle income group, married, bachelor’s degree holders and 35-45 age group;
 - The Company should collect data as to reason for its customers churn;
 - The absence of churn reasons in the entire 5 tables deprived us the opportunity to know the reason behind each customer’s churn;
 - Knowing the reason behind each customer’s churn would allow us know the major churn reason and advise the Company to work duly on the reason.
 
 ### Limitations
+---
 - Only 3 tables were utilized for the analysis and visualizations:
   - Product_Analytics (PA);
   - Customer_Data_Enriched 1;
@@ -97,3 +102,19 @@ SELECT * FROM University
 - There are empty cells (missing customer_ids) after Customer_Id 50001 (cell reference: L49003).
 - We deleted all those empty cells, to preserve the accuracy of my results/findings.
 
+😄
+
+💻
+
+|Heading1|Heading2|
+|--------|---------|
+|Content1|Content2|
+|Python|SQL|
+
+`Column 1`
+
+**Bold**
+
+*Italic*
+
+__Bolt__
